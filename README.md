@@ -1,1 +1,1 @@
-# RNA-Seq-Project
+# RNA-Seq-Project-Example
